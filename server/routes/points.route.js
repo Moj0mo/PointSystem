@@ -1,4 +1,5 @@
 const PointController = require('../controllers/points.controller');
+//App routes here
 module.exports = function(app) {
     app.get('/', PointController.retrievePoints);
     app.get('/balance', PointController.retrievePayerBalance);
