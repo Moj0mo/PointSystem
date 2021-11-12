@@ -22,7 +22,7 @@ A REST API created to handle GET/POST requests to described routes for reward's 
 ```npm install```
 <br />
 **4.** Run the server locally on port 8000
-```node server.js```
+```node start.js```
 <br />
 Note: You may change the port the server runs on by changing the ```const port = 8000``` to whichever port you wish in the [server.js file](server.js)
 <br />
