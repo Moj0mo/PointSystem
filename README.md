@@ -1,5 +1,5 @@
-# FetchRewards
-A REST API created to handle GET/POST requests to described routes for reward's point management
+# PointSystem
+A REST API created to handle GET/POST requests to described routes for reward's point management.
 
 ## Dependencies
 - [Node](https://nodejs.org/en/download/) - an open source development platform for executing JavaScript code server-side.
