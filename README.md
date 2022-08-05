@@ -1,5 +1,5 @@
 # PointSystem
-A REST API created to handle GET/POST requests to described routes for reward's point management.
+A REST API created to handle GET/POST requests to described routes for account point management.
 
 ## Dependencies
 - [Node](https://nodejs.org/en/download/) - an open source development platform for executing JavaScript code server-side.
@@ -11,11 +11,11 @@ A REST API created to handle GET/POST requests to described routes for reward's 
 <br />
 **1.** Clone the repository
 <br />
-```git clone https://github.com/rgalusha/FetchRewards.git ```
+```git clone https://github.com/moj0mo/PointSystem.git ```
 <br />
 **2.** Enter the project's root directory
 <br />
-```cd FetchRewards```
+```cd PointSystem```
 <br />
 **3.** Install dependencies
 <br />
